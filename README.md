@@ -59,9 +59,9 @@ curl --location 'http://localhost:8080/users/1'
 curl --location 'http://localhost:8080/users'
 ~~~
 ### Postman Collection
-~~~
-[MicroUSERvice.postman_collection](https://github.com/csrtld/microuservice/blob/master/MicroUSERvice.postman_collection.json)
-~~~
+
+[MicroUSERvice.postman_collection](/MicroUSERvice.postman_collection.json)
+
 ### Swagger JSON
 ~~~
 http://localhost:8080/v3/api-docs
