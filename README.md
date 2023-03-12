@@ -60,7 +60,7 @@ curl --location 'http://localhost:8080/users'
 ~~~
 ### Postman Collection
 ~~~
-MicroUSERvice.postman_collection.json
+[MicroUSERvice.postman_collection](https://github.com/csrtld/microuservice/blob/master/MicroUSERvice.postman_collection.json)
 ~~~
 ### Swagger JSON
 ~~~
